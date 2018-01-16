@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftCognitiveImageTest", "MicrosoftCognitiveImageTest\MicrosoftCognitiveImageTest.csproj", "{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC891F2-2EC9-43CA-B9D5-D863FE7E7818}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8DBF9D-7F98-476E-8396-37ABFEBC97D3}
+	EndGlobalSection
+EndGlobal
